@@ -1,1 +1,1 @@
-Project Report PDF
+TraffiTelligence is an advanced machine learning-based system designed to estimate traffic volume accurately using real-time and historical data. By leveraging algorithms like Random Forest and XGBoost, it predicts vehicle flow patterns, aiding smart traffic management. The project addresses challenges like missing data, time-based fluctuations, and feature selection. Its goal is to improve urban mobility, reduce congestion, and support data-driven traffic control systems.
